@@ -1,4 +1,4 @@
-## Put comments here that give an overall description of what your
+## A R Program for cacheing time consuming computations, by preserving the state inside a R Object
 ## functions do
 
 ## Write a short comment describing this function
